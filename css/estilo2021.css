@@ -1,0 +1,23 @@
+
+.margen{align-content: center ;border: #204d74 3px dashed;
+    padding-left: 20px
+        ;padding-right: 20px
+        ;padding-top: 20px
+        ;padding-bottom: 20px
+}
+.margen2{border: #23527c 3px double;
+padding-left: 3px
+        ;padding-right: 3px
+        ;padding-top: 3px
+        ;padding-bottom: 3px
+}
+#panelAcceso{
+    width: 500px; /* comentario */
+    margin: auto;
+    margin-top: 5%;
+}
+.panelGeneral{
+    max-width: 800px; min-width: 400px; /* comentario */
+    margin: auto;
+    margin-top: 5%;
+}
